@@ -1,0 +1,7 @@
+Średnia wypłata: 5300.0
+Najmniejsza wypłata: 4800.0
+Najwyższa wypłata: 6000.0
+Łączna liczba pracowników 4
+Pracownicy w IT 2.0
+Pracownicy w support 1.0
+Pracownicy menadżerowie  1.0
